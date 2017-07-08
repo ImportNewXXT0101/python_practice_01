@@ -17,6 +17,13 @@ def demo_list():
     print 1,lista
     print 2,1 in lista
 
+def demo_re():
+
+
+def deom_random():
+
+
+
 if __name__=='__main__':
-    # deom_string()
+    deom_string()
     demo_list()
